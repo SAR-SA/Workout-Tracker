@@ -5,7 +5,7 @@ const apiRoutes = require("./routes/api.js");
 const htmlRoutes = require("./routes/html-routes.js")
 
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3005;
 
 const app = express();
 app.use(morgan("dev"));
