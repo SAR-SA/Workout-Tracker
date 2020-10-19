@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-![](public/assets/workoutTracker1.JPG)
-![](public/assets/workoutTracker2.JPG)
+![](assets/workoutTracker1.JPG)
+![](assets/workoutTracker2.JPG)
 
 ## Table of Contents
 - [Description](#descriptiongo)
